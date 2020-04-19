@@ -6,8 +6,7 @@ elsif array.length == 2
 [array].join(" and ")
 
 elsif array.length == 3
-array_new= array.join(", ")
-array_new.insert(2,and)
+str = ", and " + array.pop
 
 end
 end
