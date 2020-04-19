@@ -5,8 +5,10 @@ if array.length == 1
 elsif array.length == 2
 [array].join(" and ")
 
-else 
-[array].join(", ").pop << "and"
+elsif array.length == 3
+str= [1],
+
+[array].join(", ")<< "and"
 
 end
 end
