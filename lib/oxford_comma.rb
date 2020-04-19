@@ -6,7 +6,7 @@ elsif array.length == 2
 [array].join(" and ")
 
 elsif array.length == 3
-array_new= array[1].join(", "), array[2].join("and ")[3].join
+array_new= array[1].join(", ")array[2].joi, n("and ")[3].join
 
 end
 end
