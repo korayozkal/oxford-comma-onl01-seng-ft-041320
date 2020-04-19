@@ -7,7 +7,7 @@ elsif array.length == 2
 
 elsif array.length == 3
 array.join(", ") << and
-array.insert 
+array.insert()
 
 
 array[2].joi, n("and ")[3].join
