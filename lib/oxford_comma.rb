@@ -7,6 +7,8 @@ elsif array.length == 2
 
 elsif array.length == 3
 str = ", and " + array.pop
+str = array.join(", ") << str
+
 
 end
 end
