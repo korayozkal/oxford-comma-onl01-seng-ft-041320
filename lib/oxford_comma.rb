@@ -10,7 +10,7 @@ str = ", and " + array.pop
 str = array.join(", ") << str
 
 else array.length > 3
- str = ", and " + array.pop
+str = ", and " + array.pop
 str = array.join(", ") << str 
 
 end
