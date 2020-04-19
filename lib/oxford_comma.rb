@@ -5,7 +5,7 @@ if array.length == 1
 elsif array.length == 2
 [array].join(" and ")
 
-else array.length
+else 
 [array].join(",")
 
 end
