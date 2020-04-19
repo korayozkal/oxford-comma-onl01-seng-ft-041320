@@ -6,7 +6,7 @@ elsif array.length == 2
 [array].join(" and ")
 
 elsif array.length == 3
-str= [1],
+str= array[1],
 
 [array].join(", ")<< "and"
 
